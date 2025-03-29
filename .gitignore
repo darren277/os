@@ -1,0 +1,11 @@
+iso/
+mnt_iso/
+
+qemu/data.img
+qemu/os.iso
+qemu/qemu.mac
+
+bootloader.bin
+os.iso
+kernel.elf
+kernel.o
